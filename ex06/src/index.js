@@ -21,4 +21,4 @@ myFunction("roar", "roar-roar");
 // Only change code above this line
 
 
-module.exports = { school, myFunction }; 
+module.exports = myFunction; 
