@@ -2,7 +2,7 @@
 
 var myClothes = {
     hat: "Fedora",
-    shirt: "Nke",
+    shirt: "Nike",
     shoes: "Converse"
 };
 
