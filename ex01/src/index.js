@@ -8,15 +8,8 @@ var myPet = {
 };
 
 function myFunction (myPet) {
-    var species = myPet.species; 
-    var name = myPet.name;
-    var legs = myPet.legs;
-    var friends = myPet.friends; 
-    return {
-        species, name, legs, friends
-    };
+   return myPet;
 }
-
 
 // Only change code above this line
 
