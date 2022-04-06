@@ -17,6 +17,6 @@ function myFunction(myClothes) {
 
 // Only change code above this line
 
-console.log(myFunction()); 
+console.log(myFunction(myClothes)); 
 
 module.exports = myFunction(myClothes); 
