@@ -13,6 +13,6 @@ function myFunction (myPet) {
 
 // Only change code above this line
 
-console.log(myFunction()); 
+console.log(myFunction(myPet)); 
 
 module.exports = { myPet, myFunction}; 
